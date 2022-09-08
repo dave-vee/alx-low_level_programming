@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * Prints out the phase Programming is like buildig a multilingual Puzzle
+ *
+ */
 
 int main(void)
 {
