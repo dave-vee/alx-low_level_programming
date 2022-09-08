@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * This prints out a string
- *
+ * main - This prints out a string
+ * return - returns nothing
  */
 
 int main(void)
