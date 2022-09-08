@@ -2,7 +2,7 @@
 
 /**
  * main - This prints out a string
- * return - returns nothing
+ * return : returns nothing
  */
 
 int main(void)
