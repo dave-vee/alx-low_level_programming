@@ -2,7 +2,7 @@
 
 /**
  * main - Prints out the phase Programming is like buildig a multilingual Puzzle
- * return - returns zero if well exited
+ * return - returns zero
  */
 
 int main(void)
